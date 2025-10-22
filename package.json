@@ -1,0 +1,11 @@
+{
+  "name": "yt-proxy-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.13.5"
+  }
+}
